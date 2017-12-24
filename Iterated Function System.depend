@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1514147664 source:c:\users\haurentziu\desktop\iterated function system\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"transformation.h"
+	"rotationalTransformation.h"
+	"system.h"
+	<math.h>
+	<iomanip>
+
+1514054435 c:\users\haurentziu\desktop\iterated function system\transformation.h
+	"point.h"
+
+1514054431 source:c:\users\haurentziu\desktop\iterated function system\transformation.cpp
+	"transformation.h"
+	<iostream>
+
+1514056758 source:c:\users\haurentziu\desktop\iterated function system\system.cpp
+	"transformation.h"
+	"system.h"
+	<stdlib.h>
+	<iostream>
+
+1514056479 c:\users\haurentziu\desktop\iterated function system\system.h
+	"transformation.h"
+
+1514054401 c:\users\haurentziu\desktop\iterated function system\point.h
+
+1514054488 source:c:\users\haurentziu\desktop\iterated function system\point.cpp
+	"point.h"
+
+1514056749 source:c:\users\haurentziu\desktop\iterated function system\generator.cpp
+	"generator.h"
+	<stdlib.h>
+	<iostream>
+
+1514056658 c:\users\haurentziu\desktop\iterated function system\generator.h
+	"system.h"
+	<fstream>
+
+1514147236 c:\users\haurentziu\desktop\iterated function system\rotationaltransformation.h
+	"transformation.h"
+
+1514147227 source:c:\users\haurentziu\desktop\iterated function system\rotationaltransformation.cpp
+	"rotationalTransformation.h"
+	<math.h>
+
